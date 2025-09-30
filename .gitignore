@@ -1,0 +1,30 @@
+# Compiled objects
+*.o
+*.so
+*.a
+
+# Executable
+swm
+
+# Build artifacts
+*.out
+*.log
+
+# Configuration (user should copy from example)
+config.h
+
+# Editor and IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Debug files
+*.dSYM/
+vgcore.*
+
+# OS specific
+.DS_Store
+Thumbs.db
